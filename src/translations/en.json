@@ -1,0 +1,36 @@
+{
+  "welcome": "Welcome to Altajer Almopdea",
+  "tagline": "Your Trusted Partner in Transportation Solutions",
+  "home": "Home",
+  "about": "About Us",
+  "description": "At Altajer Almopdea, we specialize in importing high-quality transportation vehicles and equipment. Our extensive network and industry expertise ensure reliable and cost-effective solutions tailored to your business needs.",
+  "call": "Call Us Now",
+  "email": "Email Us",
+  "services": "Our Services",
+  "servicesList": [
+    "Vehicle Import & Export",
+    "Transportation Equipment Supply",
+    "Customs Clearance",
+    "After-Sales Support"
+  ],
+  "whyChooseUs": "Why Choose Us?",
+  "whyChooseUsList": [
+    "Years of Industry Experience",
+    "Competitive Pricing",
+    "Wide Range of Vehicles",
+    "Exceptional Customer Service"
+  ],
+  "contact": "Contact Information",
+  "location": "Azzawiah East, Azzawiah, Libya",
+  "phone": "+218 92 200 0629",
+  "emailAddress": "mohamed.iphone202017@gmail.com",
+  "rights": "All rights reserved",
+  "fleetDescription": "Our latest fleet of imported transportation vehicles",
+  "footerTitle": "Altajer Almopdea",
+  "footerDescription": "Leading importer of common transportation vehicles and equipment, providing reliable solutions for businesses worldwide.",
+  "contactTitle": "Contact",
+  "quickLinks": "Quick Links",
+  "businessHours": "Business Hours",
+  "hours": "Sunday - Thursday: 9:00 AM - 6:00 PM",
+  "closed": "Friday - Saturday: Closed"
+}
