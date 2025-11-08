@@ -1,8 +1,8 @@
 {
-  "name": "@altajer-almopdea/transport",
+  "name": "@altajer-alsareeh/transport",
   "private": true,
   "version": "0.1.0",
-  "description": "Altajer Almopdea - Specializing in importing common transportation and vehicles",
+  "description": "Altajer Alsareeh - Specializing in importing common transportation and vehicles",
   "type": "module",
   "scripts": {
     "dev": "vite",
