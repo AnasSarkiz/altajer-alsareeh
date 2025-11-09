@@ -12,9 +12,9 @@ const translations = {
     aboutTitle: 'About Our Company',
     aboutText: 'Altajer Alsareeh is a leading company specializing in importing high-quality vehicles, transports, and cars. With years of experience in the industry, we provide our customers with the best selection of vehicles at competitive prices. Our commitment to excellence and customer satisfaction sets us apart in the market.',
     contactUs: 'Contact Us',
-    address: '123 Business District, Riyadh, Saudi Arabia',
-    phone: '+966 12 345 6789',
-    email: 'info@altajeralsareeh.com',
+    address: 'West Azawiah, Azzawia, Libya',
+    phone: '+218 922243465',
+    email: 'altajerAlsareeh@gmail.com',
     rights: 'All Rights Reserved',
   },
   ar: {
@@ -26,9 +26,9 @@ const translations = {
     aboutTitle: 'عن شركتنا',
     aboutText: 'شركة التاجر السريع هي شركة رائدة متخصصة في استيراد المركبات والنقل بجودة عالية. مع سنوات من الخبرة في المجال، نقدم لعملائنا أفضل تشكيلة من المركبات بأسعار تنافسية. التزامنا بالتميز ورضا العملاء يميزنا في السوق.',
     contactUs: 'اتصل بنا',
-    address: '123 حي الأعمال، الرياض، المملكة العربية السعودية',
-    phone: '٩٦٦+ ١٢ ٣٤٥ ٦٧٨٩',
-    email: 'info@altajeralsareeh.com',
+    address: 'الزاوية الغربية،الزاويه، ليبيا',
+    phone: '+218 922243465',
+    email: 'altajerAlsareeh@gmail.com',
     rights: 'جميع الحقوق محفوظة',
   }
 };
@@ -40,11 +40,11 @@ function App() {
   const t = translations[language];
 
   const handleCall = () => {
-    window.location.href = language === 'ar' ? 'tel:+966123456789' : 'tel:+966123456789';
+    window.location.href = language === 'ar' ? 'tel:+218922243465' : 'tel:+218922243465';
   };
 
   const handleEmail = () => {
-    window.location.href = 'mailto:info@altajeralsareeh.com';
+    window.location.href = 'mailto:altajerAlsareeh@gmail.com';
   };
 
   const openContactDialog = () => {
@@ -184,13 +184,13 @@ function App() {
               <address className="not-italic">
                 <p className="mb-2">{t.address}</p>
                 <a 
-                  href={language === 'ar' ? 'tel:+966123456789' : 'tel:+966123456789'} 
+                  href={language === 'ar' ? 'tel:+218922243465' : 'tel:+218922243465'} 
                   className="mb-2 block hover:text-blue-400 transition-colors"
                 >
                   {t.phone}
                 </a>
                 <a 
-                  href="mailto:info@altajeralsareeh.com" 
+                  href="mailto:altajerAlsareeh@gmail.com" 
                   className="hover:text-blue-400 transition-colors"
                 >
                   {t.email}
